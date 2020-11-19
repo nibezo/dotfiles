@@ -1,0 +1,30 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="JetBrainsMono Nerd Font" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="b6c0" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="ab0100" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="ab0100" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+    <pattern useCustomColors="true" pattern=":block(start|end):.*">
+      <option name="FOREGROUND" value="195a5f" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+  </component>
+</application>

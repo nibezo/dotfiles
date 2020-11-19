@@ -1,0 +1,151 @@
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="Debug">
+      <ViewImpl>
+        <option name="ID" value="FrameContent" />
+        <option name="placeInGrid" value="left" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="VariablesContent" />
+        <option name="placeInGrid" value="center" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="right" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/jacob/jacob.log" />
+        <option name="placeInGrid" value="right" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Debugger" />
+        <option name="leftProportion" value="0.29363784" />
+        <option name="rightProportion" value="0.35970637" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+    </runner>
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-12-47_440261.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-16-22_424097.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-19-39_244191.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-22-11_972005.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="4" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-24-12_144368.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="5" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-24-51_858855.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="6" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-25-20_645932.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="7" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-26-35_998537.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="8" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-27-20_293277.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="9" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/bots/vk/jacob/jacob_2020-08-18_21-28-10_961768.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="10" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/projects/jacob/jacob.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="11" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="2" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="3" />
+        <option name="index" value="3" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="4" />
+        <option name="index" value="4" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="5" />
+        <option name="index" value="5" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="6" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="7" />
+        <option name="index" value="7" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="8" />
+        <option name="index" value="8" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="9" />
+        <option name="index" value="9" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="10" />
+        <option name="index" value="10" />
+      </TabImpl>
+    </runner>
+  </component>
+</application>

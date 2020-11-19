@@ -1,0 +1,10 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <rules>
+      <Rule active="false" key="python:S5727" />
+      <Rule active="false" key="python:S1192" />
+      <Rule active="false" key="python:S1066" />
+      <Rule active="false" key="python:S125" />
+    </rules>
+  </component>
+</application>

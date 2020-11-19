@@ -1,0 +1,6 @@
+<application>
+  <component name="MarkdownApplicationSettings" HideErrors="true">
+    <MarkdownCssSettings StylesheetUri="https://github.com/yrgoldteeth/darkdowncss/blob/master/darkdown.css" TextEnabled="true" StylesheetText="code {&#10;    font-family: JetBrainsMono Nerd Font Mono&#10;}" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" UseGrayscaleRendering="false" />
+  </component>
+</application>

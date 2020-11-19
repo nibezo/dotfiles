@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="image.saved.id" shouldLog="false" />
+  </component>
+</application>

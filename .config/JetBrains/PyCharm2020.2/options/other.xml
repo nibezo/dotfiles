@@ -1,0 +1,161 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Python Security</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyTypeCheckerInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="14.3.0" last-modified="1589964543000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5779123" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.26949152" />
+    <property name="INSPECTION_FILTER_HISTORY" value="unexpec&#10;dict" />
+    <property name="Ideolog.Settings.TopProportion" value="0.5981912" />
+    <property name="InstalledPluginsSearchHistory" value="one dark&#10;one dar&#10;one da&#10;one d&#10;one" />
+    <property name="KEYMAP" value="expand all&#10;collapse" />
+    <property name="LOG_FILTER_HISTORY" value="multi-admin" />
+    <property name="MarketplacePluginsSearchHistory" value="one dark&#10;one da&#10;env&#10;en&#10;e" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PG_DUMP_CLI_PACK_LAST_USED_CONFIGURATION" value="PG_DUMP_PROPERTIES" />
+    <property name="PG_DUMP_PROPERTIES_COMMAND" value="--file=&quot;/home/dadyarri/desktop/{data_source}-{timestamp}-dump.sql&quot;" />
+    <property name="PG_DUMP_PROPERTIES_EXPANDED" value="true" />
+    <property name="PG_DUMP_PROPERTIES_PATH" value="/usr/bin/pg_dump" />
+    <property name="PG_DUMP_PROPERTIES_VARIANTS_1694034474" value="-f --file= -F --format= -j --jobs= -v --verbose -V --version -Z --compress= --lock-wait-timeout= --no-sync --help -a --data-only -b --blobs -B --no-blobs -c --clean -C --create -E --encoding= -n --schema= -N --exclude-schema= -O --no-owner -s --schema-only -S --superuser= -t --table= -T --exclude-table= -x --no-privileges --binary-upgrade --column-inserts --disable-dollar-quoting --disable-triggers --enable-row-security --exclude-table-data= --extra-float-digits= --if-exists --inserts --load-via-partition-root --no-comments --no-publications --no-security-labels --no-subscriptions --no-synchronized-snapshots --no-tablespaces --no-unlogged-table-data --on-conflict-do-nothing --quote-all-identifiers --rows-per-insert= --section= --serializable-deferrable --snapshot= --strict-names --use-set-session-authorization -d --dbname= -h --host= -p --port= -U --username= -w --no-password -W --password --role= &lt;" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="PythonUnitTestRunner.Splitter.Proportion" value="0.32357723" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="environmental&#10;autosave&#10;ideo&#10;terminal&#10;markdown" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="SvgEditorLayout" value="Editor only" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="env&#10;pytho&#10;dja&#10;pyt" />
+    <property name="TextEditorWithPreviewLayout" value="Editor only" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="version" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="-0.5643154" />
+    <property name="database.data.extractors.output.dir" value="" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.193" value="10" />
+    <property name="evlsprt3.201" value="12" />
+    <property name="evlsprt3.202" value="13" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/purple_plane_test_case/app/settings.py&#10;/home/dadyarri/projects/purple_plane_test_case&#10;/home/dadyarri/projects/purple_plane_test_case/.env&#10;/home/dadyarri/projects/purple_plane_test_case/db.sqlite3&#10;/home/dadyarri/.local/share/virtualenvs/jacob-AEoJMjtc/bin/flake8&#10;/home/dadyarri/projects/jacob&#10;/home/dadyarri/projects/bots/vk/jacob/.env&#10;/home/dadyarri/projects/bots/vk/jacob/jacob_2020-08-18_21-12-47_440261.log&#10;/home/dadyarri/projects/bots/vk/jacob/jacob.log&#10;/home/dadyarri/.local&#10;/home/dadyarri/projects/bots/vk/jacob/tests/services/test_call.py&#10;/home/dadyarri/projects/useful/receipt-scanner&#10;/home/dadyarri/projects/libs/vkwave&#10;/home/dadyarri/projects/bots/vk/jacob.new&#10;/home/dadyarri/projects/games/monopoly&#10;/home/dadyarri/projects/bots/vk/jacob&#10;/home/dadyarri/projects/bots/vk/ralph_cms_ivpek&#10;/home/dadyarri/projects/motherland/motherland/frontend/package.json&#10;/home/dadyarri/projects/motherland/motherland/.env&#10;/home/dadyarri/projects/motherland/motherland/motherland/manage.py&#10;/home/dadyarri/projects/motherland/motherland/motherland/motherland/settings.py&#10;/home/dadyarri/projects/motherland/motherland/motherland&#10;/home/dadyarri/projects/motherland/motherland&#10;/home/dadyarri/projects/useful/receipt-scanner/tests&#10;/home/dadyarri/projects/bots/vk/chocolate/.env&#10;/home/dadyarri/projects/useful/receipt-scanner/.env&#10;/home/dadyarri/projects/useful/reciept_scanner&#10;/home/dadyarri/projects/bots/vk/ralph_ivpek&#10;/home/dadyarri/projects/ralph/.env&#10;/home/dadyarri/projects/ralph/main.py" />
+    <property name="file.gist.reindex.count" value="139907" />
+    <property name="fileTypeChangedCounter" value="17" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.self.update.started.for.build" value="PY-202.6948.78" />
+    <property name="js.field.names.completion" value="false" />
+    <property name="js.opt.chain.completion" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/purple_plane_test_case/db.sqlite3" />
+    <property name="quick.doc.font.size.v3" value="MEDIUM" />
+    <property name="selected.color.option.type" value="PY.DOC_COMMENT" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/doors-o1k4jGXK/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-AEoJMjtc/bin/python" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/motherland-yYNslhay/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/receipt-scanner-Ki8n4CFG/bin/python" value="true" />
+        <entry key="$USER_HOME$/projects/bots/vk/jacob/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_cms_ivpek/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_ivpek/venv_ralph/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/reciept_scanner/venv_recscan/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/services_scanner/venv_recscan/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/motherland-yYNslhay/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_cms_ivpek/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_ivpek/venv_ralph/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/reciept_scanner/venv_recscan/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/tasks/venv_tasks/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/motherland-yYNslhay/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_cms_ivpek/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/bots/vk/ralph_ivpek/venv_ralph/bin/python" value="false" />
+        <entry key="$USER_HOME$/projects/reciept_scanner/venv_recscan/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
