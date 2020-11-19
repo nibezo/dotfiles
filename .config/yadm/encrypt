@@ -2,3 +2,4 @@
 .githubaccess
 .wakatime.cfg
 .gnupg
+.config/gh/hosts.yml
