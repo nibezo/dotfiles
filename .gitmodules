@@ -7,3 +7,6 @@
 [submodule ".zsh/plugins/forgit"]
 	path = .zsh/plugins/forgit
 	url = https://github.com/wfxr/forgit.git
+[submodule ".zsh/plugins/.zsh/plugins/zsh-autosuggestions"]
+	path = .zsh/plugins/.zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
