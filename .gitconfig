@@ -5,6 +5,7 @@
 [core]
 	autocrlf = input
 	filemode = false
+	editor = vim
 [credential]
 	helper = store
 [alias]
