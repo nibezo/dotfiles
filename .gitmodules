@@ -1,6 +1,6 @@
 [submodule ".tmux"]
 	path = .tmux
-	url = https://github.com/gpakosz/.tmux.git
+	url = https://github.com/dadyarri/.tmux.git
 [submodule ".zsh/plugins/forgit"]
 	path = .zsh/plugins/forgit
 	url = https://github.com/wfxr/forgit.git
