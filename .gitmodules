@@ -76,3 +76,9 @@
 [submodule ".vim/plugins/vim-zenroom2"]
 	path = .vim/plugins/vim-zenroom2
 	url = https://github.com/amix/vim-zenroom2.git
+[submodule ".vim/plugins/dracula"]
+	path = .vim/plugins/dracula
+	url = https://github.com/dracula/vim.git
+[submodule ".vim/plugins/vim-airline-themes"]
+	path = .vim/plugins/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
