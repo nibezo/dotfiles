@@ -46,8 +46,8 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}' 'r:|[._-]=* r:|=*' 'l:|=* r:
 source $PLUGINS_DIR/zsh-autosuggestions/zsh-autosuggestions.zsh 2> /dev/null || echo -e '\033[33m[ ! ]\033[0m ZSH auto-suggestions not installed'
 source $PLUGINS_DIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2> /dev/null || echo -e '\033[33m[ ! ]\033[0m ZSH highlighting not installed'
 source $PLUGINS_DIR/forgit/forgit.plugin.zsh 2> /dev/null || echo -e '\033[33m[ ! ]\033[0m Forgit not installed'
+source $PLUGINS_DIR/zsh-history-substring-search/zsh-history-substring-search.plugin.zsh 2> /dev/null || echo -e '\033[33m[ ! ]\033[0m Forgit not installed'
 source $THEMES_DIR/powerlevel10k/powerlevel10k.zsh-theme
-
 
 autoload compinit && compinit
 
@@ -104,6 +104,9 @@ alias vimconfig='vim ~/.vimrc'
 bindkey  "^[[H"   beginning-of-line
 bindkey  "^[[F"   end-of-line
 bindkey  "^[[3~"  delete-char
+
+bindkey '^[[A' history-substring-search-up
+bindkey '^[[B' history-substring-search-down
 
 
 ##############
