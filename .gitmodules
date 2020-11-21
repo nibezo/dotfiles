@@ -76,3 +76,24 @@
 [submodule ".vim/plugins/vim-airline-themes"]
 	path = .vim/plugins/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule ".vim/plugins/jedi-vim"]
+	path = .vim/plugins/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule ".vim/plugins/nerdtree-git-plugin"]
+	path = .vim/plugins/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule ".vim/plugins/requirements.txt.vim"]
+	path = .vim/plugins/requirements.txt.vim
+	url = https://github.com/raimon49/requirements.txt.vim.git
+[submodule ".vim/plugins/tender.vim"]
+	path = .vim/plugins/tender.vim
+	url = https://github.com/jacoborus/tender.vim.git
+[submodule ".vim/plugins/vim-devicons"]
+	path = .vim/plugins/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule ".vim/plugins/vim-rhubarb"]
+	path = .vim/plugins/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb.git
+[submodule ".vim/plugins/vim-startify"]
+	path = .vim/plugins/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
