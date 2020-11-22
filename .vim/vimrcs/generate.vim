@@ -111,7 +111,7 @@ else
   let g:indentLine_char = '┆'
   let g:indentLine_faster = 1
 
-  
+
   if $COLORTERM == 'gnome-terminal'
     set term=gnome-256color
   else
@@ -119,7 +119,7 @@ else
       set term=xterm-256color
     endif
   endif
-  
+
 endif
 
 
@@ -427,6 +427,11 @@ let g:airline_mode_map = {
     \ 'V'      : 'V',
     \ ''     : 'V',
 \ }
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#keymap#enabled = 0
+let g:airline_section_z = "\ue0a1:%l/%L Col:%c"
+let g:Powerline_symbols='unicode'
+let g:airline#extensions#xkblayout#enabled = 0
 
 " Syntax highlight
 let python_highlight_all = 1
@@ -480,3 +485,4 @@ else
   let g:airline_symbols.readonly = ''
   let g:airline_symbols.linenr = ''
 endif
+
