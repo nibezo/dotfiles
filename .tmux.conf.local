@@ -330,6 +330,8 @@ set -g mouse on
 # move status line to top
 set -g status-position bottom
 
+# Decrease delay for prefix
+set-option -g repeat-time 400 
 
 
 # -- custom variables ----------------------------------------------------------
