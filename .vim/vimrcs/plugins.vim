@@ -34,5 +34,5 @@ Plug 'raimon49/requirements.txt.vim', { 'for': 'requirements'  }
 Plug 'jacoborus/tender.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'Yggdroot/indentLine'
+Plug 'wakatime/vim-wakatime'
 call plug#end()
-
