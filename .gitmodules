@@ -97,3 +97,9 @@
 [submodule ".vim/plugins/vim-startify"]
 	path = .vim/plugins/vim-startify
 	url = https://github.com/mhinz/vim-startify.git
+[submodule ".vim/plugins/indentLine"]
+	path = .vim/plugins/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule ".vim/plugins/vim-wakatime"]
+	path = .vim/plugins/vim-wakatime
+	url = https://github.com/wakatime/vim-wakatime.git
