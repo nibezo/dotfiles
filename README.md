@@ -5,10 +5,13 @@
 This is a set of my configuration files, which i uses on [Manjaro Linux](https://manjaro.org)
 
 **Terminal emulator:** [Alacritty](https://github.com/alacritty/alacritty)
+
 **Desktop Environment:** [KDE Plasma](https:/kde.org/plasma-desktop)
+
 **Dotfiles management:** [yadm.io](https://yadm.io)
 
 Tmux config based on @gpakosz's [.tmux](https://github.com/gpakosz/.tmux)
+
 Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vim-bootstrap](https://vim-bootstrap.com)
 
 ## Install packages
