@@ -49,7 +49,7 @@ warn='\033[33m[ ! ]\033[0m'
 script_path="$PLUGINS_DIR/$plugin"
 if [ -f "$script_path/$plugin.zsh"  ]; then
         script="$script_path/$plugin.zsh"
-else 
+else
         script="$script_path/$plugin.plugin.zsh"
 fi
 source $script 2> /dev/null  || echo -e  "$warn $plugin not installed"
@@ -102,6 +102,9 @@ command -v gotop &> /dev/null && alias top='gotop -p'
 
 # ViM
 alias vimconfig='vim ~/.vimrc'
+
+# cat
+command -v bat &> /dev/null && alias cat='bat'
 
 #############
 #
