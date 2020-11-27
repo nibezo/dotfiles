@@ -16,7 +16,7 @@ Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vi
 
 ## Install packages
 
-`sudo pacman -S --needed tmux vim zsh yay base-devel ssh rust atom flameshot flatpak github-cli latte-dock neofetch obs-studio python-pipenv steam-manjaro tar`
+`sudo pacman -S --needed bat tmux vim zsh yay base-devel ssh rust atom flameshot flatpak github-cli latte-dock neofetch obs-studio python-pipenv steam-manjaro tar`
 
 `yay -S appimagelauncher brave-bin direnv discord espanso notion-app notion-enhancer vscodium-bin wine wine-gecko winetricks zoom bibata-cursor-theme tela-icon-theme`
 
