@@ -106,6 +106,10 @@ alias vimconfig='vim ~/.vimrc'
 # cat
 command -v bat &> /dev/null && alias cat='bat'
 
+# Lazygit
+command -v lazygit &> /dev/null && alias lg='lazygit'
+
+
 #############
 #
 # Keybindings
