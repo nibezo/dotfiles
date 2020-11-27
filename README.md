@@ -15,3 +15,14 @@ Managing dotfiles with [yadm.io](https://yadm.io)
 ## Restore configs
 
 `yadm clone https://github.com/dadyarri/dotfiles`
+
+## Preview applications
+
+### ZSH + Tmux
+
+![zsh+tmux](https://user-images.githubusercontent.com/51821039/100430318-ae7c8580-30a7-11eb-932c-ec3243b8334e.png)
+
+### Vim
+![vim_main](https://user-images.githubusercontent.com/51821039/100430151-6d847100-30a7-11eb-80a9-34dd383254be.png)
+
+![vim](https://user-images.githubusercontent.com/51821039/100430274-9c024c00-30a7-11eb-9763-8a24354c273c.png)
