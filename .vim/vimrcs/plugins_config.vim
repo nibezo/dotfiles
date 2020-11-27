@@ -83,6 +83,9 @@ let g:airline_mode_map = {
     \ ''     : 'V',
     \ }
 
+let g:airline#extensions#tabline#enabled = 1 " Use the airline tabline (replacement for buftabline)
+let g:airline#extensions#tabline#excludes = ['branches', 'index']
+
 if !exists('g:airline_symbols')
   let g:airline_symbols = {}
 endif
