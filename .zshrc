@@ -123,6 +123,16 @@ bindkey  "^[[3~"  delete-char
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
 
+##############
+#
+# ZSH's plugins' settings
+#
+##############
+auto-ls-lsd () {
+  lsd -a
+}
+
+AUTO_LS_COMMANDS=(lsd)
 
 ##############
 #
