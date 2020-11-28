@@ -1,0 +1,24 @@
+#!/bin/sh
+
+# Initialize submodules
+
+cd $HOME
+
+echo "Install packages"
+
+if command -v pacman > /dev/null 2>&1; then
+    sudo pacman -S --needed fzf git
+    cat pkglist | fzf -m | xargs sudo pacman -S --needed --no-confirm
+fi
+
+command -v yay > /dev/null 2>&1 && cat pkgaurlist | fzf -m | xargs yay -S
+command -v cargo > /dev/null 2>&1 && cargo install pastel
+command -v flatpak > /dev/null 2>&1 && flatpak install com.skype.Client com.spotify.Client org.onlyoffice.desktopeditors
+
+echo "Init submodules"
+yadm submodule update --recursive --init
+
+if command -v vim >/dev/null 2>&1; then
+  echo "Bootstraping Vim"
+  vim '+PlugUpdate' '+PlugClean!' '+PlugUpdate' '+qall'
+fi
