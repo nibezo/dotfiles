@@ -35,6 +35,9 @@ Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vi
 `yadm clone https://github.com/dadyarri/dotfiles`
 
 ## Preview applications
+### DE
+
+![de](https://user-images.githubusercontent.com/51821039/100523360-11ae0b00-31c1-11eb-8f0a-fc08a765323b.png)
 
 ### ZSH + Tmux
 
