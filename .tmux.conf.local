@@ -333,6 +333,9 @@ set -g status-position bottom
 # Decrease delay for prefix
 set-option -g repeat-time 400
 
+# Make Home/End buttons works correctly
+bind -n End send-key C-e
+bind -n Home send-key C-a
 
 # -- custom variables ----------------------------------------------------------
 # to define a custom #{foo} variable, define a POSIX shell function between the
