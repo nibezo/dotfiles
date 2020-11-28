@@ -8,7 +8,7 @@ colors:
     bright_foreground: '#ffffff'
 
   normal:
-    black: '#232627'
+    black: '#535a5d'
     red: '#ed1515'
     green: '#11d116'
     yellow: '#f67400'
