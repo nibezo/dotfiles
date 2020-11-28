@@ -106,3 +106,15 @@
 [submodule ".vim/plugins/vim-css-color"]
 	path = .vim/plugins/vim-css-color
 	url = https://github.com/ap/vim-css-color.git
+[submodule ".zsh/plugins/alias-tips"]
+	path = .zsh/plugins/alias-tips
+	url = https://github.com/djui/alias-tips.git
+[submodule ".zsh/plugins/auto-ls"]
+	path = .zsh/plugins/auto-ls
+	url = https://github.com/desyncr/auto-ls.git
+[submodule ".zsh/plugins/auto-notify"]
+	path = .zsh/plugins/auto-notify
+	url = https://github.com/MichaelAquilina/zsh-auto-notify
+[submodule ".zsh/plugins/autopair"]
+	path = .zsh/plugins/autopair
+	url = https://github.com/hlissner/zsh-autopair
