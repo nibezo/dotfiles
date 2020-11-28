@@ -14,15 +14,20 @@ Tmux config based on @gpakosz's [.tmux](https://github.com/gpakosz/.tmux)
 
 Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vim-bootstrap](https://vim-bootstrap.com)
 
+## Backup packages
+
+`pacman -Qqm > pkgaurlist` -- Backup AUR packages
+`pacman -Qqet | grep -v "$(pacman -Qqm)" > pkglist` -- Backup explicitly installed packages
+
 ## Install packages
 
-`sudo pacman -S --needed bat tmux vim zsh yay base-devel ssh rust atom flameshot flatpak github-cli latte-dock neofetch obs-studio python-pipenv steam-manjaro tar`
+`cat pkglist | xargs sudo pacman -S --needed --no-confirm`
 
-`yay -S appimagelauncher brave-bin direnv discord espanso notion-app notion-enhancer vscodium-bin wine wine-gecko winetricks zoom bibata-cursor-theme tela-icon-theme`
+`cat pkgaurlist | xargs yay -S`
 
-`cargo install alacritty pastel`
+`cargo install pastel`
 
-`flatpak install com.spotify.Client`
+`flatpak install com.skype.Client com.spotify.Client org.onlyoffice.desktopeditors`
 
 ## Restore configs
 
