@@ -103,3 +103,6 @@
 [submodule ".vim/plugins/vim-wakatime"]
 	path = .vim/plugins/vim-wakatime
 	url = https://github.com/wakatime/vim-wakatime.git
+[submodule ".vim/plugins/vim-css-color"]
+	path = .vim/plugins/vim-css-color
+	url = https://github.com/ap/vim-css-color.git

@@ -35,4 +35,5 @@ Plug 'jacoborus/tender.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'Yggdroot/indentLine'
 Plug 'wakatime/vim-wakatime'
+Plug 'ap/vim-css-color'
 call plug#end()
