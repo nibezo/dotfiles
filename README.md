@@ -17,6 +17,7 @@ Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vi
 ## Backup packages
 
 `pacman -Qqm > pkgaurlist` -- Backup AUR packages
+
 `pacman -Qqet | grep -v "$(pacman -Qqm)" > pkglist` -- Backup explicitly installed packages
 
 ## Install packages
@@ -36,9 +37,8 @@ Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vi
 ## Preview applications
 
 ### ZSH + Tmux
- 
-![zsh+tmux](https://user-images.githubusercontent.com/51821039/100430318-ae7c8580-30a7-11eb-932c-ec3243b8334e.png)
 
+![zsh+tmux](https://user-images.githubusercontent.com/51821039/100522224-3488f100-31ba-11eb-9f8d-35b0d0230361.png)
 ### Vim
 
 ![vim_main](https://user-images.githubusercontent.com/51821039/100430151-6d847100-30a7-11eb-80a9-34dd383254be.png)
