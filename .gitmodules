@@ -118,3 +118,12 @@
 [submodule ".zsh/plugins/autopair"]
 	path = .zsh/plugins/autopair
 	url = https://github.com/hlissner/zsh-autopair
+[submodule ".zsh/plugins/copy-pasta"]
+	path = .zsh/plugins/copy-pasta
+	url = https://github.com/ChrisPenner/copy-pasta
+[submodule ".zsh/plugins/bd"]
+	path = .zsh/plugins/bd
+	url = https://github.com/Tarrasch/zsh-bd
+[submodule ".zsh/plugins/systemd"]
+	path = .zsh/plugins/systemd
+	url = https://github.com/le0me55i/zsh-systemd
