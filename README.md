@@ -36,7 +36,7 @@ Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vi
 ## Preview applications
 
 ### ZSH + Tmux
-
+ 
 ![zsh+tmux](https://user-images.githubusercontent.com/51821039/100430318-ae7c8580-30a7-11eb-932c-ec3243b8334e.png)
 
 ### Vim
