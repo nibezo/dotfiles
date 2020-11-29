@@ -1,0 +1,21 @@
+#!/usr/bin/env python
+
+import subprocess
+import re
+
+
+waka = subprocess.Popen(
+        ['wakatime', '--today'],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT
+    )
+
+stdout, stderr = waka.communicate()
+stdout = stdout.decode('utf-8')
+stdout = re.sub(r' *hours* *', 'h', stdout)
+stdout = re.sub(r' *mins* *', 'm', stdout)
+stdout = re.sub(r' *secs* *', 's', stdout)
+stdout = re.sub(r' *coding *', ' 💻', stdout)
+stdout = re.sub(r' *browsing* *',  ' 🌍', stdout)
+stdout = stdout.replace('\n', '')
+print(stdout)
