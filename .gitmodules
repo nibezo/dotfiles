@@ -112,9 +112,6 @@
 [submodule ".zsh/plugins/auto-ls"]
 	path = .zsh/plugins/auto-ls
 	url = https://github.com/desyncr/auto-ls.git
-[submodule ".zsh/plugins/auto-notify"]
-	path = .zsh/plugins/auto-notify
-	url = https://github.com/MichaelAquilina/zsh-auto-notify
 [submodule ".zsh/plugins/autopair"]
 	path = .zsh/plugins/autopair
 	url = https://github.com/hlissner/zsh-autopair
