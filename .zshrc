@@ -8,7 +8,7 @@ fi
 export THEMES_DIR='/home/dadyarri/.zsh/themes'
 export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
 export GPG_TTY=$(tty)
-
+export EDITOR=$(where vim)
 export PATH="$HOME/.cargo/bin:$PATH"
 
 autoload -U promptinit; promptinit
