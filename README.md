@@ -14,6 +14,8 @@ Tmux config based on @gpakosz's [.tmux](https://github.com/gpakosz/.tmux)
 
 Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vim-bootstrap](https://vim-bootstrap.com)
 
+Wallpaper's author: [runachan](https://vk.com/runachan)
+
 ## Backup packages
 
 `pacman -Qqm > pkgaurlist` -- Backup AUR packages
