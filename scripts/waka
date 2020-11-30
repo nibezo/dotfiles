@@ -12,7 +12,7 @@ waka = subprocess.Popen(
 
 stdout, stderr = waka.communicate()
 stdout = stdout.decode('utf-8')
-stdout = re.sub(r' *hours* *', 'h', stdout)
+stdout = re.sub(r' *hrs* *', 'h', stdout)
 stdout = re.sub(r' *mins* *', 'm', stdout)
 stdout = re.sub(r' *secs* *', 's', stdout)
 stdout = re.sub(r' *coding *', ' 💻', stdout)
