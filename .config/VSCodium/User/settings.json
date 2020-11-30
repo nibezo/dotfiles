@@ -1,5 +1,8 @@
 {
     "workbench.startupEditor": "newUntitledFile",
     "latex-workshop.view.pdf.viewer": "tab",
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontFamily": "'JetBrains Mono Regular Nerd Font Complete Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "python.showStartPage": false
 }
