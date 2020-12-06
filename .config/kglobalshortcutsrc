@@ -151,6 +151,7 @@ Switch to Screen 4=none,none,Переключиться на экран 4
 Switch to Screen 5=none,none,Переключиться на экран 5
 Switch to Screen 6=none,none,Переключиться на экран 6
 Switch to Screen 7=none,none,Переключиться на экран 7
+Toggle Night Color=none,none,Включить или отключить ночную цветовую схему
 Toggle Window Raise/Lower=none,none,Переключить передний/задний план
 Walk Through Desktop List=none,none,По списку рабочих столов вперёд
 Walk Through Desktop List (Reverse)=none,none,По списку рабочих столов назад
