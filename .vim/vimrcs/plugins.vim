@@ -36,4 +36,5 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'Yggdroot/indentLine'
 Plug 'wakatime/vim-wakatime'
 Plug 'ap/vim-css-color'
+Plug 'reedes/vim-pencil', { 'for': 'markdown' }
 call plug#end()
