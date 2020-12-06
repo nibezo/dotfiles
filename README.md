@@ -10,12 +10,6 @@ This is a set of my configuration files, which i uses on [Manjaro Linux](https:/
 
 **Dotfiles management:** [yadm.io](https://yadm.io)
 
-Tmux config based on @gpakosz's [.tmux](https://github.com/gpakosz/.tmux)
-
-Vim config based on @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vim-bootstrap](https://vim-bootstrap.com)
-
-Wallpaper's author: [runachan](https://vk.com/runachan)
-
 ## Backup packages
 
 `pacman -Qqm > pkgaurlist` -- Backup AUR packages
@@ -49,3 +43,12 @@ Wallpaper's author: [runachan](https://vk.com/runachan)
 ![vim_main](https://user-images.githubusercontent.com/51821039/100430151-6d847100-30a7-11eb-80a9-34dd383254be.png)
 
 ![vim](https://user-images.githubusercontent.com/51821039/100430274-9c024c00-30a7-11eb-9763-8a24354c273c.png)
+
+## References & sources
+
+| Application  | Source                               |
+|--------------|--------------------------------------|
+| Tmux config  | @gpakosz's [.tmux](https://github.com/gpakosz/.tmux)                     |
+| Vim config   | @amix's awesome [vimrc](https://github.com/amix/vimrc) + [vim-bootstrap](https://vim-bootstrap.com)|
+| Wallpaper    | [runachan](https://vk.com/runachan)'s                           |
+
