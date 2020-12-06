@@ -124,3 +124,6 @@
 [submodule ".zsh/plugins/systemd"]
 	path = .zsh/plugins/systemd
 	url = https://github.com/le0me55i/zsh-systemd
+[submodule ".zsh/plugins/zshmarks"]
+	path = .zsh/plugins/zshmarks
+	url = https://github.com/jocelynmallon/zshmarks
