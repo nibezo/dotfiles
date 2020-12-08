@@ -69,6 +69,8 @@ nnoremap <silent> <leader>f :Rgrep<CR>
 " terminal
 nnoremap <silent> <leader>sh :terminal<CR>
 
+" goyo.vim
+nnoremap <silent> <leader>z :Goyo<cr>
 
 " Abbreviations
 cnoreabbrev W! w!
