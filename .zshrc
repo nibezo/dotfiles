@@ -47,15 +47,18 @@ for plugin in $(ls $PLUGINS_DIR)
 do
 warn='\033[33m[ ! ]\033[0m'
 script_path="$PLUGINS_DIR/$plugin"
-if [ -f "$script_path/$plugin.zsh"  ]; then
+grep $plugin .ignore &> /dev/null
+if [ $? -ne 0 ]; then
+    if [ -f "$script_path/$plugin.zsh"  ]; then
         script="$script_path/$plugin.zsh"
-else
+    else
         script="$script_path/$plugin.plugin.zsh"
+    fi
 fi
 source $script 2> /dev/null  || echo -e  "$warn $plugin not installed"
 done
 
-source $THEMES_DIR/powerlevel10k/powerlevel10k.zsh-theme
+# source $THEMES_DIR/powerlevel10k/powerlevel10k.zsh-theme
 
 autoload compinit && compinit
 
@@ -760,4 +763,6 @@ function _gh_repo_view {
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+eval "$(starship init zsh)"
