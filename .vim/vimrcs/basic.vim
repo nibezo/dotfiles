@@ -164,6 +164,11 @@ augroup vimrc-python
       \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
 augroup END
 
+augroup vimrc-markdown
+    autocmd!
+    autocmd BufEnter *.md :SoftPencil
+augroup END
+
 let python_highlight_all = 1
 
 noremap YY "+y<CR>
