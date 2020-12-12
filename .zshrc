@@ -161,6 +161,13 @@ eval "$(direnv hook zsh)"
 eval $(thefuck --alias)
 #compdef _gh gh
 
+function poetry_version {
+    poetry version $1 > message.txt.bak
+    git add pyproject.toml
+    sed -i '1s/^/:bookmark: /' message.txt.bak
+    git commit -F message.txt.bak
+    rm -rf message.txt.bak
+}
 
 function _gh {
   local -a commands
