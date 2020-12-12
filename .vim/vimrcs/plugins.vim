@@ -37,4 +37,5 @@ Plug 'Yggdroot/indentLine'
 Plug 'wakatime/vim-wakatime'
 Plug 'ap/vim-css-color'
 Plug 'reedes/vim-pencil', { 'for': 'markdown' }
+Plug 'neovimhaskell/haskell-vim', { 'for': 'haskell'  }
 call plug#end()
