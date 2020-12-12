@@ -166,6 +166,7 @@ function poetry_version {
     git add pyproject.toml
     sed -i '1s/^/:bookmark: /' message.txt.bak
     git commit -F message.txt.bak
+    git tag "v$(awk '{print $NF}' message.txt.bak)"
     rm -rf message.txt.bak
 }
 
