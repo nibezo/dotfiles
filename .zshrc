@@ -9,7 +9,7 @@ export THEMES_DIR='/home/dadyarri/.zsh/themes'
 export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
 export GPG_TTY=$(tty)
 export EDITOR=$(where vim)
-export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/.npm-packages/bin:$HOME/.cargo/bin:$PATH"
 
 autoload -U promptinit; promptinit
 
@@ -163,10 +163,13 @@ eval $(thefuck --alias)
 
 function poetry_version {
     poetry version $1 > message.txt.bak
-    git add pyproject.toml
-    sed -i '1s/^/:bookmark: /' message.txt.bak
-    git commit -F message.txt.bak
-    git tag "v$(awk '{print $NF}' message.txt.bak)"
+    git -C . rev-parse &> /dev/null
+    if [[ $? -eq 0 ]]; then
+        git add pyproject.toml
+        sed -i '1s/^/chore(version) /' message.txt.bak
+        git commit -F message.txt.bak
+        git tag "v$(awk '{print $NF}' message.txt.bak)"
+    fi
     rm -rf message.txt.bak
 }
 
