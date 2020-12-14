@@ -6,6 +6,10 @@
     "editor.fontLigatures": true,
     "python.showStartPage": false,
     "window.menuBarVisibility": "visible",
-    "editor.rulers": [88]
+    "editor.rulers": [
+        88
+    ],
+    "python.terminal.activateEnvironment": false,
+    "workbench.editor.closeOnFileDelete": true
 }
 
