@@ -2,37 +2,15 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/projects/choco">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1ivARBCNaDwhUZQ29ruJrdg82tg">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-202.6948.78" />
-              <option name="buildTimestamp" value="1598375603281" />
-              <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1602777741245" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/purple_plane_test_case">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1jUv1H5iULpILAMsgyrrxxdGojh">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-202.6948.78" />
-              <option name="buildTimestamp" value="1598375603160" />
-              <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1603956719720" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/jacob">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="1bcKJnDp3W85ywoUpMzKv5HSwsl">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-202.7660.27" />
-              <option name="buildTimestamp" value="1601978793800" />
+              <option name="build" value="PY-202.8194.22" />
+              <option name="buildTimestamp" value="1606826655291" />
               <frame x="10" y="128" width="1270" height="672" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1604778961415" />
+              <option name="projectOpenTimestamp" value="1608277507919" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -42,8 +20,6 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/projects/jacob" />
-        <option value="$USER_HOME$/projects/purple_plane_test_case" />
-        <option value="$USER_HOME$/projects/choco" />
       </list>
     </option>
   </component>
