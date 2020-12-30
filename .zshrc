@@ -13,7 +13,7 @@ export THEMES_DIR='/home/dadyarri/.zsh/themes'
 export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
 export GPG_TTY=$(tty)
 export EDITOR=$(where vim)
-export PATH="$HOME/.npm-packages/bin:$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/.npm-packages/bin:$HOME/.cargo/bin:$HOME/.dotnet/tools:$HOME/.homebrew/bin:$PATH"
 
 autoload -U promptinit; promptinit
 
@@ -94,6 +94,8 @@ alias docker='sudo docker'
 
 # Xclip
 alias xclip='xclip -selection c'
+
+alias pascal="mono $HOME/.pascal/pabcnetc.exe"
 
 # Lsd
 command -v lsd &> /dev/null && alias ls='lsd --group-dirs first'
