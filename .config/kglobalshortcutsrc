@@ -32,6 +32,10 @@ _launch=none,none,Запустить Навигатор Avahi по сервер�
 _k_friendly_name=Навигатор Avahi по серверам VNC
 _launch=none,none,Запустить Навигатор Avahi по серверам VNC
 
+[com.skype.client.desktop]
+_k_friendly_name=Skype
+_launch=none,none,Запустить Skype
+
 [designer.desktop]
 _k_friendly_name=Qt Designer
 _launch=none,none,Запустить Qt Designer
@@ -447,3 +451,7 @@ _launch=none,none,Запустить XDvi
 [yakuake]
 _k_friendly_name=Yakuake
 toggle-window-state=F12,F12,Отрыть/Свернуть Yakuake
+
+[zoom.desktop]
+_k_friendly_name=Zoom
+_launch=none,none,Запустить Zoom
