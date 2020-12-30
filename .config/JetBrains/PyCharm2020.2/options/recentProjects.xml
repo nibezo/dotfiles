@@ -2,15 +2,26 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/projects/choco">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1luvLMuQvDYfIJxEX8p9phB6Muh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-202.8194.22" />
+              <option name="buildTimestamp" value="1606826688251" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1608459745485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/projects/jacob">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="1bcKJnDp3W85ywoUpMzKv5HSwsl">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-202.8194.22" />
-              <option name="buildTimestamp" value="1606826655291" />
+              <option name="buildTimestamp" value="1606826656586" />
               <frame x="10" y="128" width="1270" height="672" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1608277507919" />
+              <option name="projectOpenTimestamp" value="1609168644469" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -20,6 +31,7 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/projects/jacob" />
+        <option value="$USER_HOME$/projects/choco" />
       </list>
     </option>
   </component>
