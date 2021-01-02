@@ -13,7 +13,8 @@ export THEMES_DIR='/home/dadyarri/.zsh/themes'
 export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
 export GPG_TTY=$(tty)
 export EDITOR=$(where vim)
-export PATH="$HOME/.npm-packages/bin:$HOME/.cargo/bin:$HOME/.dotnet/tools:$HOME/.homebrew/bin:$PATH"
+
+export PATH="$(/usr/bin/python $HOME/scripts/get_path.py 2>&1):$PATH"
 
 autoload -U promptinit; promptinit
 
@@ -62,7 +63,7 @@ fi
 source $script 2> /dev/null  || echo -e  "$warn $plugin not installed"
 done
 
-# source $THEMES_DIR/powerlevel10k/powerlevel10k.zsh-theme
+source $THEMES_DIR/powerlevel10k/powerlevel10k.zsh-theme
 
 autoload compinit && compinit
 
@@ -780,6 +781,5 @@ function _gh_repo_view {
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-# [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-eval "$(starship init zsh)"
