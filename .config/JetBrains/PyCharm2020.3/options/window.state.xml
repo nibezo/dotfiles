@@ -46,7 +46,7 @@
     <size key="GridCell.Tab.-1.bottom.0.0.1280.800" width="1234" height="242" />
   </component>
   <component name="WindowManager">
-    <frame x="10" y="128" width="1270" height="672" extendedState="6" />
+    <frame x="0" y="26" width="1280" height="774" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -71,9 +71,9 @@
       <screen x="0" y="26" width="1280" height="774" />
     </state>
     <state x="499" y="161" width="317" height="355" key="FileChooserDialogImpl/0.26.1280.774" timestamp="1608459719128" />
-    <state x="640" y="374" key="WELCOME_SCREEN" timestamp="1608277212286">
+    <state x="640" y="398" key="WELCOME_SCREEN" timestamp="1610736642976">
       <screen x="0" y="26" width="1280" height="774" />
     </state>
-    <state x="640" y="374" key="WELCOME_SCREEN/0.26.1280.774" timestamp="1608277212286" />
+    <state x="640" y="398" key="WELCOME_SCREEN/0.26.1280.774" timestamp="1610736642976" />
   </component>
 </application>

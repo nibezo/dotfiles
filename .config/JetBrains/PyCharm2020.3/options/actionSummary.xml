@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="1" l="1610792722832" />
+    </e>
+    <e n="$Undo">
+      <i c="7" l="1610792719343" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1610793507665" />
+    </e>
+    <e n="EditorDown">
+      <i c="21" l="1610793114006" />
+    </e>
+    <e n="EditorEscape">
+      <i c="3" l="1610793100472" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1610793499404" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="6" l="1610793103854" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="2" l="1610793499833" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="2" l="1610793104574" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1610793502661" />
+    </e>
+    <e n="EditorRight">
+      <i c="8" l="1610793498297" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1610792315694" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1610791928102" />
+    </e>
+    <e n="com.intellij.vcs.commit.CommitActionsPanel$DefaultCommitAction">
+      <i c="2" l="1610793509789" />
+    </e>
+  </component>
+</application>

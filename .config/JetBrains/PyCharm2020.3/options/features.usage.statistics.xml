@@ -1,7 +1,4 @@
 <application>
-  <component name="EventLogWhitelist">
-    <update recorder-id="FUS" last-modified="1609161213000" />
-  </component>
   <component name="FeatureUsageStatistics" first-run="1585155086552" have-been-shown="false" show-in-other="true" show-in-compilation="true">
     <feature id="editing.completion.camelHumps" count="205" last-shown="0" last-used="1608917190610" shown-count="0" />
     <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -10,7 +7,7 @@
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="811" last-shown="1608045465949" last-used="1608316288978" shown-count="3088" />
+    <feature id="editing.completion.replace" count="819" last-shown="1610730376571" last-used="1610733036017" shown-count="3237" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="95" last-shown="0" last-used="1609169491552" shown-count="0" />
@@ -20,11 +17,11 @@
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="7580" last-shown="0" last-used="1608918710231" shown-count="0" />
+    <feature id="editing.completion.basic" count="7611" last-shown="0" last-used="1610735063825" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="3020" last-shown="0" last-used="1609171890175" shown-count="0" />
+    <feature id="editing.select.word" count="3032" last-shown="0" last-used="1610793350707" shown-count="0" />
     <feature id="navigation.recent.files" count="3" last-shown="0" last-used="1597765933163" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="952" last-shown="0" last-used="1608913506397" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="954" last-shown="0" last-used="1610735169139" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -39,20 +36,17 @@
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="51362" />
-      <option name="invocations" value="6999" />
+      <option name="sparedCharacters" value="51456" />
+      <option name="invocations" value="7025" />
       <option name="startDate" value="1585083600000" />
-      <option name="dayCount" value="136" />
-      <option name="lastDate" value="1608843600000" />
+      <option name="dayCount" value="137" />
+      <option name="lastDate" value="1610658000000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="719" />
+      <option name="invocations" value="721" />
       <option name="startDate" value="1585083600000" />
-      <option name="dayCount" value="107" />
-      <option name="lastDate" value="1608670800000" />
+      <option name="dayCount" value="108" />
+      <option name="lastDate" value="1610658000000" />
     </fixesStatsTag>
-  </component>
-  <component name="UsagesStatistic">
-    <system-event-id recorder="FUS" id="192757" />
   </component>
 </application>

@@ -15,24 +15,18 @@
         </entry>
         <entry key="$USER_HOME$/projects/jacob">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1bcKJnDp3W85ywoUpMzKv5HSwsl">
+            <RecentProjectMetaInfo frameTitle="jacob – filters.py" opened="true" projectWorkspaceId="1bcKJnDp3W85ywoUpMzKv5HSwsl">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-202.8194.22" />
-              <option name="buildTimestamp" value="1606826656586" />
-              <frame x="10" y="128" width="1270" height="672" extendedState="6" />
+              <option name="build" value="PY-203.6682.179" />
+              <option name="buildTimestamp" value="1609343878705" />
+              <frame x="0" y="26" width="1280" height="774" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1609168644469" />
+              <option name="projectOpenTimestamp" value="1610792332899" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
     <option name="lastProjectLocation" value="$USER_HOME$/projects" />
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/projects/jacob" />
-        <option value="$USER_HOME$/projects/choco" />
-      </list>
-    </option>
   </component>
 </application>

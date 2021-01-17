@@ -27,6 +27,17 @@
       <version-cache version="14.3.0" last-modified="1589964543000" />
     </local-interpreter>
   </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1bcKJnDp3W85ywoUpMzKv5HSwsl">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="PropertiesComponent">
     <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
     <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
@@ -104,21 +115,22 @@
     <property name="evlsprt3.193" value="10" />
     <property name="evlsprt3.201" value="12" />
     <property name="evlsprt3.202" value="13" />
+    <property name="evlsprt3.203" value="11" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/choco&#10;/home/dadyarri/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python&#10;/home/dadyarri/projects/purple_plane_test_case/app/settings.py&#10;/home/dadyarri/projects/purple_plane_test_case&#10;/home/dadyarri/projects/purple_plane_test_case/.env&#10;/home/dadyarri/projects/purple_plane_test_case/db.sqlite3&#10;/home/dadyarri/.local/share/virtualenvs/jacob-AEoJMjtc/bin/flake8&#10;/home/dadyarri/projects/jacob&#10;/home/dadyarri/projects/bots/vk/jacob/.env&#10;/home/dadyarri/projects/bots/vk/jacob/jacob_2020-08-18_21-12-47_440261.log&#10;/home/dadyarri/projects/bots/vk/jacob/jacob.log&#10;/home/dadyarri/.local&#10;/home/dadyarri/projects/bots/vk/jacob/tests/services/test_call.py&#10;/home/dadyarri/projects/useful/receipt-scanner&#10;/home/dadyarri/projects/libs/vkwave&#10;/home/dadyarri/projects/bots/vk/jacob.new&#10;/home/dadyarri/projects/games/monopoly&#10;/home/dadyarri/projects/bots/vk/jacob&#10;/home/dadyarri/projects/bots/vk/ralph_cms_ivpek&#10;/home/dadyarri/projects/motherland/motherland/frontend/package.json&#10;/home/dadyarri/projects/motherland/motherland/.env&#10;/home/dadyarri/projects/motherland/motherland/motherland/manage.py&#10;/home/dadyarri/projects/motherland/motherland/motherland/motherland/settings.py&#10;/home/dadyarri/projects/motherland/motherland/motherland&#10;/home/dadyarri/projects/motherland/motherland&#10;/home/dadyarri/projects/useful/receipt-scanner/tests&#10;/home/dadyarri/projects/bots/vk/chocolate/.env&#10;/home/dadyarri/projects/useful/receipt-scanner/.env&#10;/home/dadyarri/projects/useful/reciept_scanner&#10;/home/dadyarri/projects/bots/vk/ralph_ivpek" />
-    <property name="file.gist.reindex.count" value="158884" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python&#10;/home/dadyarri/projects/choco&#10;/home/dadyarri/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python&#10;/home/dadyarri/projects/purple_plane_test_case/app/settings.py&#10;/home/dadyarri/projects/purple_plane_test_case&#10;/home/dadyarri/projects/purple_plane_test_case/.env&#10;/home/dadyarri/projects/purple_plane_test_case/db.sqlite3&#10;/home/dadyarri/.local/share/virtualenvs/jacob-AEoJMjtc/bin/flake8&#10;/home/dadyarri/projects/jacob&#10;/home/dadyarri/projects/bots/vk/jacob/.env&#10;/home/dadyarri/projects/bots/vk/jacob/jacob_2020-08-18_21-12-47_440261.log&#10;/home/dadyarri/projects/bots/vk/jacob/jacob.log&#10;/home/dadyarri/.local&#10;/home/dadyarri/projects/bots/vk/jacob/tests/services/test_call.py&#10;/home/dadyarri/projects/useful/receipt-scanner&#10;/home/dadyarri/projects/libs/vkwave&#10;/home/dadyarri/projects/bots/vk/jacob.new&#10;/home/dadyarri/projects/games/monopoly&#10;/home/dadyarri/projects/bots/vk/jacob&#10;/home/dadyarri/projects/bots/vk/ralph_cms_ivpek&#10;/home/dadyarri/projects/motherland/motherland/frontend/package.json&#10;/home/dadyarri/projects/motherland/motherland/.env&#10;/home/dadyarri/projects/motherland/motherland/motherland/manage.py&#10;/home/dadyarri/projects/motherland/motherland/motherland/motherland/settings.py&#10;/home/dadyarri/projects/motherland/motherland/motherland&#10;/home/dadyarri/projects/motherland/motherland&#10;/home/dadyarri/projects/useful/receipt-scanner/tests&#10;/home/dadyarri/projects/bots/vk/chocolate/.env&#10;/home/dadyarri/projects/useful/receipt-scanner/.env&#10;/home/dadyarri/projects/useful/reciept_scanner" />
+    <property name="file.gist.reindex.count" value="171744" />
     <property name="fileTypeChangedCounter" value="18" />
     <property name="ide.memory.adjusted" value="true" />
-    <property name="ide.self.update.started.for.build" value="PY-202.7660.27" />
+    <property name="ide.updates.previous.build.number" value="PY-203.6682.179" />
     <property name="js.field.names.completion" value="false" />
     <property name="js.opt.chain.completion" value="true" />
     <property name="js.overrides.completion" value="true" />
     <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/choco" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python" />
     <property name="quick.doc.font.size.v3" value="MEDIUM" />
     <property name="selected.color.option.type" value="PY.DOC_COMMENT" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
-    <property name="ts.lib.d.ts.version" value="3.9.5" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
     <property name="typescript.show.auto.import" value="true" />
   </component>
   <component name="PyCodeInsightSettings">
@@ -128,6 +140,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python" value="true" />
+        <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python" value="true" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/doors-o1k4jGXK/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="true" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-AEoJMjtc/bin/python" value="true" />
@@ -143,6 +156,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python" value="false" />
+        <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-AEoJMjtc/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/motherland-yYNslhay/bin/python" value="false" />
@@ -155,6 +169,7 @@
     <option name="SDK_TO_TRIALTEST">
       <map>
         <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python" value="false" />
+        <entry key="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-45jkGjGA/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/jacob-AEoJMjtc/bin/python" value="false" />
         <entry key="$USER_HOME$/.local/share/virtualenvs/motherland-yYNslhay/bin/python" value="false" />
