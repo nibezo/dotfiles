@@ -1,0 +1,10 @@
+commitizen
+docker-compose
+flake8
+ipython
+pipenv
+poetry
+pre-commit
+thefuck
+tldr
+wakatime
