@@ -124,3 +124,6 @@
 [submodule ".zsh/plugins/zshmarks"]
 	path = .zsh/plugins/zshmarks
 	url = https://github.com/jocelynmallon/zshmarks
+[submodule "projects/stuff/test/.vim/plugins/vim-pencil"]
+	path = projects/stuff/test/.vim/plugins/vim-pencil
+	url = https://github.com/reedes/vim-pencil
