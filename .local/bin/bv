@@ -1,0 +1,9 @@
+#!/bin/bash
+set -euo pipefail
+
+old_version=$(git tag | tail -n 1 | sed "s/v//")
+version=$(cz bump --files-only | grep "tag to create" | awk '{print $4}' | sed "s/v//")
+sed -i "s/\(version *= *\).*/\1\"$version\"/" pyproject.toml
+git add pyproject.toml
+git commit -m "bump: version $old_version -> $version"
+git tag "v$version"
