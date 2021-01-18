@@ -76,9 +76,6 @@
 [submodule ".vim/plugins/vim-airline-themes"]
 	path = .vim/plugins/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule ".vim/plugins/jedi-vim"]
-	path = .vim/plugins/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
 [submodule ".vim/plugins/nerdtree-git-plugin"]
 	path = .vim/plugins/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
