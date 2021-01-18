@@ -1,46 +1,205 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Redo">
-      <i c="1" l="1610792722832" />
+      <i c="2" l="1610951708462" />
     </e>
     <e n="$Undo">
-      <i c="7" l="1610792719343" />
+      <i c="35" l="1610951705298" />
+    </e>
+    <e n="ChangesView.ShowCommitOptions">
+      <i c="3" l="1610956247094" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1610908270613" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="10" l="1610955799839" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1610947726684" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8" l="1610793507665" />
+      <i c="404" l="1610956179665" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="89" l="1610955517904" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1610897551418" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1610951201441" />
+    </e>
+    <e n="EditorCut">
+      <i c="16" l="1610953225658" />
+    </e>
+    <e n="EditorDelete">
+      <i c="13" l="1610950969648" />
     </e>
     <e n="EditorDown">
-      <i c="21" l="1610793114006" />
+      <i c="237" l="1610956203963" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="92" l="1610955799093" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="5" l="1610900956084" />
+    </e>
+    <e n="EditorEnter">
+      <i c="123" l="1610956016955" />
     </e>
     <e n="EditorEscape">
-      <i c="3" l="1610793100472" />
+      <i c="14" l="1610955782066" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="4" l="1610950647298" />
     </e>
     <e n="EditorLeft">
-      <i c="5" l="1610793499404" />
+      <i c="496" l="1610956205941" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="64" l="1610955773324" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="37" l="1610953223940" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="33" l="1610956206582" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="13" l="1610950966159" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="16" l="1610953224881" />
     </e>
     <e n="EditorNextWord">
-      <i c="6" l="1610793103854" />
+      <i c="13" l="1610950981779" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="2" l="1610793499833" />
+      <i c="27" l="1610950987878" />
+    </e>
+    <e n="EditorPaste">
+      <i c="24" l="1610953227846" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="2" l="1610793104574" />
+      <i c="43" l="1610954760156" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="1" l="1610793502661" />
+      <i c="92" l="1610952843508" />
     </e>
     <e n="EditorRight">
-      <i c="8" l="1610793498297" />
+      <i c="363" l="1610956016743" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="51" l="1610954765700" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="27" l="1610951785866" />
+    </e>
+    <e n="EditorTab">
+      <i c="7" l="1610953222124" />
+    </e>
+    <e n="EditorTextStart">
+      <i c="2" l="1610907957248" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1610950969368" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="7" l="1610955510483" />
+    </e>
+    <e n="EditorUp">
+      <i c="174" l="1610955796170" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="122" l="1610956206293" />
+    </e>
+    <e n="FileChooser.GotoProject">
+      <i c="1" l="1610896549302" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1610947063720" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1610905860497" />
+    </e>
+    <e n="Rerun">
+      <i c="2" l="1610906445882" />
+    </e>
+    <e n="Run">
+      <i c="68" l="1610951804305" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1610947500288" />
+    </e>
+    <e n="SaveAll">
+      <i c="8" l="1610952408190" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1610896610977" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1610889875937" />
+    </e>
+    <e n="StepOver">
+      <i c="9" l="1610947770830" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1610947676107" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1610956290374" />
+    </e>
+    <e n="Vcs.ToggleAmendCommitMode">
+      <i c="1" l="1610954097831" />
+    </e>
+    <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
+      <i c="1" l="1610955787967" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="4" l="1610949911499" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="2" l="1610792315694" />
+      <i c="4" l="1610945796112" />
+    </e>
+    <e n="com.intellij.ide.actions.ResizeToolWindowAction$Left">
+      <i c="8" l="1610955467339" />
+    </e>
+    <e n="com.intellij.ide.actions.ResizeToolWindowAction$Right">
+      <i c="7" l="1610955466799" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="5" l="1610791928102" />
+      <i c="16" l="1610956182689" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1610896614404" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1610896596073" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1610952227674" />
+    </e>
+    <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
+      <i c="1" l="1610952301133" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1610896539320" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1610896455343" />
     </e>
     <e n="com.intellij.vcs.commit.CommitActionsPanel$DefaultCommitAction">
-      <i c="2" l="1610793509789" />
+      <i c="12" l="1610955620367" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1610947918908" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="4" l="1610946311514" />
+    </e>
+    <e n="net.ashald.envfile.platform.ui.EnvFileConfigurationPanel$5">
+      <i c="1" l="1610896541051" />
     </e>
   </component>
 </application>
