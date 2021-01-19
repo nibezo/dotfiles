@@ -13,6 +13,7 @@
     helper = store
 
 [alias]
+    unstage = reset HEAD
     last = log -1 HEAD
     latest = show --name-only --oneline HEAD
     down = pull --rebase origin
