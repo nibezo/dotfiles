@@ -127,3 +127,6 @@
 [submodule "projects/stuff/test/.vim/plugins/vim-pencil"]
 	path = projects/stuff/test/.vim/plugins/vim-pencil
 	url = https://github.com/reedes/vim-pencil
+[submodule ".zsh/plugins/fzf-tab"]
+	path = .zsh/plugins/fzf-tab
+	url = https://github.com/Aloxaf/fzf-tab
