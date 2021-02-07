@@ -31,10 +31,10 @@
     <size key="GridCell.Tab.7.center.0.0.1920.1080" width="1874" height="408" />
     <size key="GridCell.Tab.7.right.0.0.1920.1080" width="1874" height="408" />
     <size key="GridCell.Tab.7.bottom.0.0.1920.1080" width="1874" height="408" />
-    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1257" height="286" />
-    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1257" height="286" />
-    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1257" height="286" />
-    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1257" height="286" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1234" height="178" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1234" height="178" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1234" height="178" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1234" height="178" />
     <size key="GridCell.Tab.1.left.0.0.1280.800" width="1257" height="286" />
     <size key="GridCell.Tab.1.center.0.0.1280.800" width="1257" height="286" />
     <size key="GridCell.Tab.1.right.0.0.1280.800" width="1257" height="286" />
@@ -46,20 +46,37 @@
     <size key="GridCell.Tab.-1.bottom.0.0.1280.800" width="1234" height="242" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="26" width="1280" height="774" extendedState="6" />
+    <frame x="0" y="25" width="1280" height="750" extendedState="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3184765" />
       <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.3298217" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3290735" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3290735" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290735" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.3290735" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298217" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="WindowStateApplicationService">

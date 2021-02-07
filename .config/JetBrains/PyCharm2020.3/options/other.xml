@@ -5,18 +5,30 @@
         <expanded-state>
           <State />
           <State>
-            <id>Python</id>
+            <id>Angular</id>
           </State>
           <State>
-            <id>Python Security</id>
+            <id>General</id>
           </State>
           <State>
-            <id>RegExp</id>
+            <id>GeneralJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Validity issuesJavaScript and TypeScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyTypeCheckerInspection</id>
+            <id>Angular</id>
           </State>
         </selected-state>
       </profile-state>
@@ -71,14 +83,14 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="ExternalToolDialog.advanced.expanded" value="true" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FileTemplates.SelectedTemplate" value="Python Script" />
     <property name="FindSplitterProportion" value="0.26949152" />
     <property name="INSPECTION_FILTER_HISTORY" value="reference&#10;unexpec&#10;dict" />
     <property name="Ideolog.Settings.TopProportion" value="0.5981912" />
-    <property name="InstalledPluginsSearchHistory" value="one dark&#10;one dar&#10;one da&#10;one d&#10;one" />
-    <property name="KEYMAP" value="expand all&#10;collapse" />
+    <property name="InstalledPluginsSearchHistory" value="wakatime&#10;wakatim&#10;wakat&#10;waka&#10;w" />
+    <property name="KEYMAP" value="settings&#10;expand all&#10;collapse" />
     <property name="LOG_FILTER_HISTORY" value="multi-admin" />
-    <property name="MarketplacePluginsSearchHistory" value="one dark&#10;one da&#10;env&#10;en&#10;e" />
+    <property name="MarketplacePluginsSearchHistory" value="wakatime&#10;one dark&#10;on&#10;one da&#10;env" />
     <property name="MoveFile.OpenInEditor" value="false" />
     <property name="NonModalCommitPromotionState" value="ACCEPTED" />
     <property name="PG_DUMP_CLI_PACK_LAST_USED_CONFIGURATION" value="PG_DUMP_PROPERTIES" />
@@ -97,7 +109,7 @@
     <property name="PythonUnitTestRunner.Splitter.Proportion" value="0.32357723" />
     <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
     <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
-    <property name="SettingsSearchHistory" value="inspections&#10;environmental&#10;autosave&#10;ideo&#10;terminal" />
+    <property name="SettingsSearchHistory" value="power save mode&#10;power&#10;inspections&#10;environmental&#10;autosave" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SonarLint.analyzeAllFiles.hideWarning" value="true" />
     <property name="SqlStructureView.filterD.file.structure.state" value="true" />
@@ -118,16 +130,18 @@
     <property name="evlsprt3.203" value="11" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/projects/jacob/.env&#10;/home/dadyarri/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python&#10;/home/dadyarri/projects/choco&#10;/home/dadyarri/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.8/bin/python&#10;/home/dadyarri/projects/purple_plane_test_case/app/settings.py&#10;/home/dadyarri/projects/purple_plane_test_case&#10;/home/dadyarri/projects/purple_plane_test_case/.env&#10;/home/dadyarri/projects/purple_plane_test_case/db.sqlite3&#10;/home/dadyarri/.local/share/virtualenvs/jacob-AEoJMjtc/bin/flake8&#10;/home/dadyarri/projects/jacob&#10;/home/dadyarri/projects/bots/vk/jacob/.env&#10;/home/dadyarri/projects/bots/vk/jacob/jacob_2020-08-18_21-12-47_440261.log&#10;/home/dadyarri/projects/bots/vk/jacob/jacob.log&#10;/home/dadyarri/.local&#10;/home/dadyarri/projects/bots/vk/jacob/tests/services/test_call.py&#10;/home/dadyarri/projects/useful/receipt-scanner&#10;/home/dadyarri/projects/libs/vkwave&#10;/home/dadyarri/projects/bots/vk/jacob.new&#10;/home/dadyarri/projects/games/monopoly&#10;/home/dadyarri/projects/bots/vk/jacob&#10;/home/dadyarri/projects/bots/vk/ralph_cms_ivpek&#10;/home/dadyarri/projects/motherland/motherland/frontend/package.json&#10;/home/dadyarri/projects/motherland/motherland/.env&#10;/home/dadyarri/projects/motherland/motherland/motherland/manage.py&#10;/home/dadyarri/projects/motherland/motherland/motherland/motherland/settings.py&#10;/home/dadyarri/projects/motherland/motherland/motherland&#10;/home/dadyarri/projects/motherland/motherland&#10;/home/dadyarri/projects/useful/receipt-scanner/tests&#10;/home/dadyarri/projects/bots/vk/chocolate/.env&#10;/home/dadyarri/projects/useful/receipt-scanner/.env" />
-    <property name="file.gist.reindex.count" value="171816" />
-    <property name="fileTypeChangedCounter" value="18" />
+    <property name="file.gist.reindex.count" value="183570" />
+    <property name="fileTypeChangedCounter" value="44" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PY-203.6682.179" />
+    <property name="ignore.power.save.mode" value="true" />
     <property name="js.field.names.completion" value="false" />
     <property name="js.opt.chain.completion" value="true" />
     <property name="js.overrides.completion" value="true" />
     <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
     <property name="last_opened_file_path" value="$USER_HOME$/.cache/pypoetry/virtualenvs/jacob-R6jX0S4E-py3.9/bin/python" />
+    <property name="power.save.mode" value="true" />
     <property name="quick.doc.font.size.v3" value="MEDIUM" />
     <property name="selected.color.option.type" value="PY.DOC_COMMENT" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
