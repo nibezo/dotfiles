@@ -10,7 +10,9 @@ export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
 export GPG_TTY=$(tty)
 export EDITOR=$(where vim)
 
-export PATH="$(/usr/bin/python $HOME/scripts/get_path.py 2>&1):$PATH"
+export PATH="$(/home/dadyarri/scripts/get-path 2>&1):$PATH"
+
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 
 autoload -U promptinit; promptinit
 
@@ -93,6 +95,8 @@ alias docker='sudo docker'
 alias xclip='xclip -selection c'
 
 alias pascal="mono $HOME/.pascal/pabcnetc.exe"
+
+alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 
 # Lsd
 command -v lsd &> /dev/null && alias ls='lsd --group-dirs first'
