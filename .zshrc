@@ -5,12 +5,12 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-export THEMES_DIR='/home/dadyarri/.zsh/themes'
-export PLUGINS_DIR='/home/dadyarri/.zsh/plugins'
+export THEMES_DIR="/home/$USER/.zsh/themes"
+export PLUGINS_DIR="/home/$USER/.zsh/plugins"
 export GPG_TTY=$(tty)
 export EDITOR=$(where vim)
 
-export PATH="$(/home/dadyarri/scripts/get-path 2>&1):$PATH"
+export PATH="$("/home/$USER/scripts/get-path" 2>&1):$PATH"
 
 export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 
